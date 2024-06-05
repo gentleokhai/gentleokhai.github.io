@@ -1,0 +1,12 @@
+.me {
+    text-align: center;
+}
+.txt {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.img-fluid {
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
