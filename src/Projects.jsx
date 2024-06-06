@@ -42,7 +42,7 @@ const Projects = () => {
                         
                         <Col md={4} className="mb-4">
                             <Card>
-                                <Card.Img variant="top" src="path_to_project_image3.jpg" />
+                                <Card.Img variant="top"/>
                                 <Card.Body><Card.Title>Project Three</Card.Title>
                                     <Card.Text>The simplest learning management system. Sorry, no picture is available as it's purely backend</Card.Text>
                                     <Button variant="primary" href="https://github.com/gentleokhai/Learning_management_system">View Details</Button>
