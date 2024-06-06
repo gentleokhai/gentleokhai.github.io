@@ -26,50 +26,11 @@ const  Home = () => {
                             <img src= {genie} alt="Gentle Okhai" className='img-fluid' />
                         </Col>
                         <div className="txt">
-                        <p>
-                                Highly skilled and detail-oriented Full Stack Developer with over two years of experience in 
-                                designing, developing, and maintaining complex web applications. 
-                                <p>Proficient in front-end and back-end technologies, including JavaScript, React,  Node.js, Express, and Monogodb.</p> 
-                                <p>Demonstrated expertise in developing scalable, efficient, and user-friendly solutions 
-                                with a strong focus on responsive design and performance optimization.</p>
-                                <p>Adept at working in agile environments, collaborating cross-functionally with designers, product 
-                                managers, and other developers to deliver high-quality software solutions.</p>
-                                Highly committed to continuous learning and keeping up with the latest industry trends and technologies.
-                                <p>Technical Skills:</p>
-                                <b><u>Front end:</u></b>
-                                <ul>HTML5, CSS3, JavaScript (ES6+)</ul>
-                                <ul>React, Vue</ul>
-                                <ul>Bootstrap, Tailwind CSS, SASS</ul>
-                                <b><u>Back-End:</u></b>
-                                <ul>Node.js, Express.js</ul>
-                                <ul>Python (FastApi, Flask)</ul>
-                                
-                                <b><u>Databases:</u></b>
-                                <ul>MongoDB, MySQL</ul>
-                                <b><u>DevOps & Tools:</u></b>
-                                <ul>Git, GitHub </ul>
-                                <ul>Docker </ul>
-                                <ul>AWS, Azure, Google Cloud Platform</ul>
-                                <b><u>Others:</u></b>
-                                <ul>RESTFUL APIs</ul>
-                                <ul>Technical writing</ul>
-                                <ul>Cryptography</ul>
-                                <b><u>Professional Experience</u></b>
-                                <p>I have had experience building personal websites for people and also teaching individuals web development</p>
-
-                                I've Lead the development and maintenance of web applications using React, Node.js, and MongoDB, improving
-                                performance by 30%.
-                                Collaborated with cross-functional teams to define, design, and ship new features.
-                                Implemented RESTful APIs and integrated third-party services to enhance application functionality.
-                                Optimized application performance and scalability through code reviews and refactoring.
-                                Mentored junior developers, fostering a culture of continuous improvement and knowledge sharing.
-                                Full Stack Developer!
-                                Participated in all phases of the software development lifecycle, from requirements gathering to deployment and maintenance.
-                                Ensured high performance and responsiveness of applications by implementing efficient code and utilizing caching strategies.
-                                Worked closely with designers to create user-friendly interfaces and ensure cross-browser compatibility.
-                                <p>To find out more about projects click this <a href='/projects'>link</a></p>
-                                I am a hundred percent available for projects and roles
-                                </p>
+                        I am a dedicated full-stack developer with a passion for creating dynamic, user-friendly web applications. 
+                        With a solid foundation in both front-end and back-end technologies, I excel at building comprehensive solutions that meet client needs.
+                        My skills include JavaScript, React, Node.js, and database management, allowing me to handle every aspect of the development process.
+                        I thrive in collaborative environments and am committed to continuous learning and innovation in the tech industry.
+                        To get a comprehensive about on me check out this <a href="https://medium.com/@gentleokhaix/about-me-2ad89266b507">blog</a> or click the <a href="/about">link!</a>
                         </div>
                     </Row>
                 </Container>

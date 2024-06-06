@@ -11,7 +11,7 @@ const App = () => {
     return (
         <BrowserRouter>
         <Mynavbar />
-            <Routes>
+            <Routes basename={process.env.PUBLIC_URL} >
                 <Route exact path="/" Component={Home} />
                 <Route exact path="/about" Component={About} />
                 <Route exact path="/projects" Component={Projects} />
