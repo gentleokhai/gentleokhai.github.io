@@ -1,76 +1,40 @@
-Login-Signup Page
+Okhai Gentle's Portfolio
+Welcome to my portfolio! This repository showcases my skills, projects, and experiences as a Full Stack Developer. Below you will find information about my professional background, technical skills, and links to some of my most notable projects.
+
+Table of Contents
+About Me
+Skills
+Projects
+Contact
+About Me
+Hello! I'm Gentle Okhai, a Full Stack Developer with over two years of experience in building web applications. My expertise lies in both front-end and back-end development, and I have a strong passion for creating efficient, scalable, and user-friendly solutions. I enjoy working in agile environments and continuously improving my skills by keeping up with the latest industry trends.
+
+Skills
+Front-End
+HTML5, CSS3, JavaScript (ES6+)
+Frameworks/Libraries: React, Vue.js
+Styling: Bootstrap, Tailwind CSS, SASS
+Back-End
+Node.js, Express.js
+Python (FastApi, Flask)
+Ruby on Rails
+Database
+MongoDB, Nosql MySQL
+
+DevOps & Tools
+Version Control: Git, GitHub
+Containerization: Docker
+Cloud Services: AWS, Azure, Google Cloud Platform
+Others
+API Development: RESTful APIs.
 
 
-This repository contains a simple frontend project containing login and signup functionalities. The application is built using modern web development technologies to ensure a responsive and user-friendly experience.
-
-Features
-
-User Registration: New users can sign up with a username, email, and password.
-
-User Login: Registered users can log in with their email and password.
-
-Responsive Design: The application is optimized for use on desktops, tablets, and mobile devices.
-
-Technologies Used:
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React
-
-How to get the code
-
-git clone https://github.com/gentleokhai/Login-Signup.git
-
-cd Login-Signup
-
-Install project dependencies
-
-npm start
-
-Access the application:
-
-Open your web browser and navigate to http://localhost:5000.
-
-Project Structure
-
-Login-SignUp/
-
-├── public/
-
-│   ├── faviocon.ico
-
-│   └── index.html
-
-├── src/
-
-|    |----Components/
-
-|         |----LoginSignUp.css
-
-|         |____LoginSignup.jsx
-
-|    |----App.js
-
-|    |----index.css
-
-|    |___index.js
-
-|-- .gitignore
-
-|-- .gitignore
-
-|-- package-lock.json
-
-|-- package.json
-
-|__ README.md
 
 Contact
-For any inquiries or suggestions, please contact Gentle Okhai at gentleokhaiX@gmail.com.
+Feel free to reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
 
-
-For Collaborations call +2349065070051
+Email: gentleokhaiX@gmail@example.com
+LinkedIn: gentleokhai
+Twitter: gentleokhai
+Personal Website: gentleokhai.github.io
+Thank you for visiting my portfolio!
