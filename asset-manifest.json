@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gentleokhai.github.io/static/css/main.d1657a12.css",
-    "main.js": "/gentleokhai.github.io/static/js/main.8a20db2d.js",
-    "static/media/DSC_8234.JPG": "/gentleokhai.github.io/static/media/DSC_8234.7e32a5b48750cf18673a.JPG",
-    "static/media/calc.png": "/gentleokhai.github.io/static/media/calc.c0a57e6ce66bf12de6ef.png",
-    "static/media/log-sig.jpg": "/gentleokhai.github.io/static/media/log-sig.8f34e52894fbb1c5b4c6.jpg",
-    "index.html": "/gentleokhai.github.io/index.html",
-    "main.d1657a12.css.map": "/gentleokhai.github.io/static/css/main.d1657a12.css.map",
-    "main.8a20db2d.js.map": "/gentleokhai.github.io/static/js/main.8a20db2d.js.map"
+    "main.css": "/static/css/main.d1657a12.css",
+    "main.js": "/static/js/main.3b48b4ce.js",
+    "static/media/DSC_8234.JPG": "/static/media/DSC_8234.7e32a5b48750cf18673a.JPG",
+    "static/media/calc.png": "/static/media/calc.c0a57e6ce66bf12de6ef.png",
+    "static/media/log-sig.jpg": "/static/media/log-sig.8f34e52894fbb1c5b4c6.jpg",
+    "index.html": "/index.html",
+    "main.d1657a12.css.map": "/static/css/main.d1657a12.css.map",
+    "main.3b48b4ce.js.map": "/static/js/main.3b48b4ce.js.map"
   },
   "entrypoints": [
     "static/css/main.d1657a12.css",
-    "static/js/main.8a20db2d.js"
+    "static/js/main.3b48b4ce.js"
   ]
 }
