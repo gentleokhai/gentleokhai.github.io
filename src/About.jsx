@@ -19,7 +19,7 @@ const About = () => {
                         </Col>
                         <div className="txt">
                             <p>
-                                Highly skilled and detail-oriented Full Stack Developer with over two years of experience in 
+                                Gentle Okhai is a highly skilled and detail-oriented Full Stack Developer with over two years of experience in 
                                 designing, developing, and maintaining complex web applications. 
                                 <p>Proficient in front-end and back-end technologies, including JavaScript, React,  Node.js, Express, and Monogodb.</p> 
                                 <p>Demonstrated expertise in developing scalable, efficient, and user-friendly solutions 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import About from './About';
 import Contact from './Contact';
@@ -9,7 +9,7 @@ import Footer from './Footer';
 
 const App = () => {
     return (
-        <BrowserRouter>
+        <Router>
         <Mynavbar />
             <Routes basename={process.env.PUBLIC_URL} >
                 <Route exact path="/" Component={Home} />
@@ -18,7 +18,7 @@ const App = () => {
                 <Route exact path="/contact" Component={Contact} />
             </Routes>
             <Footer />
-        </BrowserRouter>
+        </Router>
     );
 }
 
