@@ -11,7 +11,7 @@ const HeroSection = ({ scrollToSection }) => {
 
   const titles = [
     "Full Stack Developer",
-    "Programming teacher",
+    "Web development mentor",
     "Fast api specialist",
     "Cyber security enthusiast",
     "Python Developer",
@@ -100,7 +100,7 @@ const HeroSection = ({ scrollToSection }) => {
             viewport={{ once: true }}
           >
             <span className="bg-indigo-800 bg-opacity-50 text-yellow-300 text-sm font-semibold px-4 py-1 rounded-full inline-block mb-6">
-              Portfolio 2025
+              Gentle 2025
             </span>
             
             <h1 className="text-4xl md:text-6xl font-bold mb-4 leading-tight">
