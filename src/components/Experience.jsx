@@ -11,7 +11,7 @@ const experiences = [
     title: "Software Engineering bootcamp",
     company: "ALX software engineering program",
     period: "2022",
-    side: "left",
+    side: "right",
     details: [
       "Learnt teamwork and working under deadlines",
       "Created reusable UI components reducing development time by 20%",
