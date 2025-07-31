@@ -44,13 +44,22 @@ const projects = [
     demoUrl: "https://fastapi-quiz.vercel.app/docs",
   },
   {
-    id: 4,
+    id: 5,
     title: "Basic ecommerce",
     description:
       "An e-commerce backend with basic functionalities.",
     technologies: ["Fastapi", "MongoDB", "Vercel"],
     image: "fastapi.png",
     demoUrl: "https://timardor.vercel.app/docs",
+  },
+  {
+    id: 6,
+    title: "Dohs Admin",
+    description:
+      "The admin side.",
+    technologies: ["React", "Tailwind", "Fast-Api"],
+    image: "onehealth-admin.png",
+    demoUrl: "https://onehealth-ten.vercel.app/dashboard",
   },
 ];
 
