@@ -43,6 +43,15 @@ const projects = [
     image: "quiz.png",
     demoUrl: "https://fastapi-quiz.vercel.app/docs",
   },
+  {
+    id: 4,
+    title: "Basic ecommerce",
+    description:
+      "An e-commerce backend with basic functionalities.",
+    technologies: ["Fastapi", "MongoDB", "Vercel"],
+    image: "fastapi.png",
+    demoUrl: "https://timardor.vercel.app/docs",
+  },
 ];
 
 const Projects = () => {
